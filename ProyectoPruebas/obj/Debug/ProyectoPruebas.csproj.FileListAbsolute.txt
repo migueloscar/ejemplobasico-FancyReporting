@@ -1,0 +1,17 @@
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\ProyectoPruebas.exe.config
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\ProyectoPruebas.exe
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\ProyectoPruebas.pdb
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\FancyReporting.dll
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.csprojAssemblyReference.cache
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.Form1.resources
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.Properties.Resources.resources
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.csproj.CopyComplete
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.exe
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\obj\Debug\ProyectoPruebas.pdb
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\System.IO.Packaging.dll
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\migue\source\repos\ProyectoPruebas\ProyectoPruebas\bin\Debug\System.IO.Packaging.xml
